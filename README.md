@@ -1,1 +1,1 @@
-Bayes theorem Concepts through the use of tree diagram methods in training the data, and predict unseen data. Also python programming language is used to demonstrate the probability concepts.
+Bayes theorem Concepts through the use of tree diagram methods in training the data, and predict unseen data. Also python programming language is used to demonstrate the probability concepts. This is the type of supervised learning type of machine learning.
